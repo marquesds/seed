@@ -5,3 +5,5 @@ __pycache__/
 *.sqlite3
 statifiles/
 local_settings.py
+bower.json
+bower_components
